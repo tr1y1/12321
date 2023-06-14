@@ -1,0 +1,45 @@
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\bin\Release\City test.exe.config
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\bin\Release\City test.exe.manifest
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\bin\Release\City test.application
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\bin\Release\City test.exe
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\bin\Release\City test.pdb
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\bin\Release\EntityFramework.dll
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\bin\Release\System.Data.SQLite.dll
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\bin\Release\EntityFramework.xml
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\bin\Release\System.Data.SQLite.xml
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\obj\Release\City_test.City_test.resources
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\obj\Release\City_test.Properties.Resources.resources
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\obj\Release\City test.csproj.GenerateResource.cache
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\obj\Release\City test.csproj.CoreCompileInputs.cache
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\obj\Release\City test.exe.manifest
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\obj\Release\City test.application
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\obj\Release\City test.csproj.CopyComplete
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\obj\Release\City test.exe
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\obj\Release\City test.pdb
+C:\Users\wsr_arc03\Desktop\tr1y1-main\City test\bin\Release\City test.exe.config
+C:\Users\wsr_arc03\Desktop\tr1y1-main\City test\bin\Release\City test.exe.manifest
+C:\Users\wsr_arc03\Desktop\tr1y1-main\City test\bin\Release\City test.application
+C:\Users\wsr_arc03\Desktop\tr1y1-main\City test\bin\Release\City test.exe
+C:\Users\wsr_arc03\Desktop\tr1y1-main\City test\bin\Release\City test.pdb
+C:\Users\wsr_arc03\Desktop\tr1y1-main\City test\bin\Release\EntityFramework.dll
+C:\Users\wsr_arc03\Desktop\tr1y1-main\City test\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\wsr_arc03\Desktop\tr1y1-main\City test\bin\Release\System.Data.SQLite.dll
+C:\Users\wsr_arc03\Desktop\tr1y1-main\City test\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\wsr_arc03\Desktop\tr1y1-main\City test\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\wsr_arc03\Desktop\tr1y1-main\City test\bin\Release\EntityFramework.xml
+C:\Users\wsr_arc03\Desktop\tr1y1-main\City test\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\wsr_arc03\Desktop\tr1y1-main\City test\bin\Release\System.Data.SQLite.xml
+C:\Users\wsr_arc03\Desktop\tr1y1-main\City test\obj\Release\City test.csprojAssemblyReference.cache
+C:\Users\wsr_arc03\Desktop\tr1y1-main\City test\obj\Release\City_test.City_test.resources
+C:\Users\wsr_arc03\Desktop\tr1y1-main\City test\obj\Release\City_test.Properties.Resources.resources
+C:\Users\wsr_arc03\Desktop\tr1y1-main\City test\obj\Release\City test.csproj.GenerateResource.cache
+C:\Users\wsr_arc03\Desktop\tr1y1-main\City test\obj\Release\City test.csproj.CoreCompileInputs.cache
+C:\Users\wsr_arc03\Desktop\tr1y1-main\City test\obj\Release\City test.exe.manifest
+C:\Users\wsr_arc03\Desktop\tr1y1-main\City test\obj\Release\City test.application
+C:\Users\wsr_arc03\Desktop\tr1y1-main\City test\obj\Release\City test.csproj.CopyComplete
+C:\Users\wsr_arc03\Desktop\tr1y1-main\City test\obj\Release\City test.exe
+C:\Users\wsr_arc03\Desktop\tr1y1-main\City test\obj\Release\City test.pdb

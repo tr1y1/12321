@@ -1,0 +1,23 @@
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\obj\Debug\City_test.City_test.resources
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\obj\Debug\City_test.Properties.Resources.resources
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\obj\Debug\City test.csproj.GenerateResource.cache
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\obj\Debug\City test.csproj.CoreCompileInputs.cache
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\bin\Debug\City test.exe.config
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\bin\Debug\City test.exe
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\bin\Debug\City test.pdb
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\bin\Debug\EntityFramework.dll
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\bin\Debug\System.Data.SQLite.dll
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\bin\Debug\EntityFramework.xml
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\bin\Debug\System.Data.SQLite.xml
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\obj\Debug\City test.csproj.CopyComplete
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\obj\Debug\City test.exe
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\obj\Debug\City test.pdb
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\obj\Debug\City test.csprojAssemblyReference.cache
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\bin\Debug\City test.exe.manifest
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\bin\Debug\City test.application
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\obj\Debug\City test.exe.manifest
+C:\Users\wsr_arc04\Desktop\City test\City test\City test\obj\Debug\City test.application
